@@ -12,7 +12,7 @@ Hold F9 to temporarily unmute yourself (you will be muted again once you release
 
 The repository contains an [AutoHotkey](https://www.autohotkey.com) script for Windows.
 
-A precompiled executable can be downloaded from the Releases pages.
+A precompiled executable can be downloaded from the [Releases](https://github.com/joanrieu/ms-teams-push-to-talk/releases) pages.
 
 Once launched, the script will run in the background.
 
